@@ -1,4 +1,4 @@
-# 📊 Excel Practice Sets — Junior Data Analyst
+# 📊 Excel Practice Sets — Data Analyst
 
 <div align="center">
 

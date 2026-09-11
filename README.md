@@ -19,16 +19,8 @@ This repo is my personal practice ground for mastering **Excel for Data Analysis
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the repo**
-
-```bash
-   git clone https://github.com/<your-username>/excel-practice-sets.git
-```
-
-2. **Open any `.xlsx` file** in Excel (2019 or later recommended)
-3. **Practice first, then check** — every topic has a `practice/` file (exercises with empty cells) and a `solution/` file (completed version)
+1. **Open any `.xlsx` file** in Excel (2019 or later recommended)
+2. **Practice first, then check** — every topic has a `practice/` file (exercises with empty cells) and a `solution/` file (completed version)
 ---
 
 ## 📚 Learning Roadmap

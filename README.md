@@ -2,17 +2,12 @@
 
 <div align="center">
 
-**A complete, hands-on Excel practice repository covering every skill a Junior Data Analyst needs — from basics to dashboards.**
+**A complete, hands-on Excel practice repository covering every skill a Data Analyst needs — from basics to dashboards.**
 
 ![Excel](https://img.shields.io/badge/Excel-365%20%7C%202021%20%7C%202019-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Level](https://img.shields.io/badge/Level-Beginner%20%E2%86%92%20Advanced-blue?style=for-the-badge)
 ![Topics](https://img.shields.io/badge/Topics-18-orange?style=for-the-badge)
 ![Practice Files](https://img.shields.io/badge/Practice%20Files-100%2B-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
-
-[🚀 Getting Started](#-getting-started) • [📚 Roadmap](#-learning-roadmap) • [📁 Repo Structure](#-repository-structure) • [✅ Progress Tracker](#-progress-tracker)
-
-</div>
 
 ---
 
@@ -20,7 +15,7 @@
 
 This repo is my personal practice ground for mastering **Excel for Data Analysis**, following a structured 18-topic roadmap — each topic with **dedicated practice files, exercises, and solutions**.
 
-> 🎯 **Goal:** Build job-ready Excel skills for a Junior Data Analyst role — data cleaning, analysis, forecasting, what-if modeling, and dashboards.
+> 🎯 **Goal:** Build job-ready Excel skills for a Data Analyst role — data cleaning, analysis, forecasting, what-if modeling, and dashboards.
 
 ---
 
@@ -34,8 +29,6 @@ This repo is my personal practice ground for mastering **Excel for Data Analysis
 
 2. **Open any `.xlsx` file** in Excel (2019 or later recommended)
 3. **Practice first, then check** — every topic has a `practice/` file (exercises with empty cells) and a `solution/` file (completed version)
-4. Track your progress in the [Progress Tracker](#-progress-tracker) below ✅
-
 ---
 
 ## 📚 Learning Roadmap
@@ -152,14 +145,4 @@ The most job-relevant block, expanded from the roadmap:
 
 ---
 
-## 📜 License
-
-MIT — feel free to use these practice sets for learning. Give a ⭐ if this repo helps you!
-
----
-
-<div align="center">
-
 **⭐ Star this repo to follow the journey from Excel basics to analyst-ready dashboards! ⭐**
-
-</div>
